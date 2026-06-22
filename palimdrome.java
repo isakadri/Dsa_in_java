@@ -20,7 +20,7 @@ class palimdrome{
     String str="III";
     palimdrome p=new palimdrome();
     boolean result=p.check(str);
-    if(result){
+    if(result){ // result
       System.out.println("yes its a pamimdrome");
     }else{
       System.out.println("no not a palimdrome");
