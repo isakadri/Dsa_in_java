@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/isakadri/Dsa_in_java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/isakadri/Dsa_in_java/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/isakadri/Dsa_in_java/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/isakadri/Dsa_in_java/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/isakadri/Dsa_in_java/tree/master/0058-length-of-last-word) |
@@ -36,5 +37,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/isakadri/Dsa_in_java/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/isakadri/Dsa_in_java/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/isakadri/Dsa_in_java/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/isakadri/Dsa_in_java/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
