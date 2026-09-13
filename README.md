@@ -20,6 +20,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/isakadri/Dsa_in_java/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/isakadri/Dsa_in_java/tree/master/0009-palindrome-number) |
 ## Array
 |  |
@@ -55,4 +56,12 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/isakadri/Dsa_in_java/tree/master/0015-3sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/isakadri/Dsa_in_java/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/isakadri/Dsa_in_java/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
