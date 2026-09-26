@@ -23,6 +23,7 @@
 | [0002-add-two-numbers](https://github.com/isakadri/Dsa_in_java/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/isakadri/Dsa_in_java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/isakadri/Dsa_in_java/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/isakadri/Dsa_in_java/tree/master/0029-divide-two-integers) |
 ## Array
 |  |
 | ------- |
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/isakadri/Dsa_in_java/tree/master/0002-add-two-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/isakadri/Dsa_in_java/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
