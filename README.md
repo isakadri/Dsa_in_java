@@ -24,6 +24,7 @@
 | [0007-reverse-integer](https://github.com/isakadri/Dsa_in_java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/isakadri/Dsa_in_java/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/isakadri/Dsa_in_java/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/isakadri/Dsa_in_java/tree/master/0066-plus-one) |
 ## Array
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [0015-3sum](https://github.com/isakadri/Dsa_in_java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/isakadri/Dsa_in_java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/isakadri/Dsa_in_java/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/isakadri/Dsa_in_java/tree/master/0066-plus-one) |
 ## Trie
 |  |
 | ------- |
