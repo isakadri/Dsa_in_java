@@ -14,6 +14,7 @@
 | [0020-valid-parentheses](https://github.com/isakadri/Dsa_in_java/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/isakadri/Dsa_in_java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/isakadri/Dsa_in_java/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/isakadri/Dsa_in_java/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0009-palindrome-number](https://github.com/isakadri/Dsa_in_java/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/isakadri/Dsa_in_java/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/isakadri/Dsa_in_java/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/isakadri/Dsa_in_java/tree/master/0067-add-binary) |
 ## Array
 |  |
 | ------- |
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/isakadri/Dsa_in_java/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/isakadri/Dsa_in_java/tree/master/0067-add-binary) |
 ## String Matching
 |  |
 | ------- |
@@ -90,4 +93,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/isakadri/Dsa_in_java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/isakadri/Dsa_in_java/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
