@@ -28,6 +28,7 @@
 | [0029-divide-two-integers](https://github.com/isakadri/Dsa_in_java/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/isakadri/Dsa_in_java/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/isakadri/Dsa_in_java/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/isakadri/Dsa_in_java/tree/master/0070-climbing-stairs) |
 ## Array
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/isakadri/Dsa_in_java/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/isakadri/Dsa_in_java/tree/master/0070-climbing-stairs) |
 ## Manacher
 |  |
 | ------- |
@@ -97,4 +99,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/isakadri/Dsa_in_java/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/isakadri/Dsa_in_java/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
