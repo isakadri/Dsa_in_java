@@ -37,6 +37,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/isakadri/Dsa_in_java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/isakadri/Dsa_in_java/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/isakadri/Dsa_in_java/tree/master/0066-plus-one) |
+| [0198-house-robber](https://github.com/isakadri/Dsa_in_java/tree/master/0198-house-robber) |
 ## Trie
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/isakadri/Dsa_in_java/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/isakadri/Dsa_in_java/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/isakadri/Dsa_in_java/tree/master/0198-house-robber) |
 ## Manacher
 |  |
 | ------- |
