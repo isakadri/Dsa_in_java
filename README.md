@@ -29,6 +29,7 @@
 | [0066-plus-one](https://github.com/isakadri/Dsa_in_java/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/isakadri/Dsa_in_java/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/isakadri/Dsa_in_java/tree/master/0070-climbing-stairs) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/isakadri/Dsa_in_java/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Array
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0070-climbing-stairs](https://github.com/isakadri/Dsa_in_java/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/isakadri/Dsa_in_java/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/isakadri/Dsa_in_java/tree/master/0746-min-cost-climbing-stairs) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/isakadri/Dsa_in_java/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Manacher
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/isakadri/Dsa_in_java/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/isakadri/Dsa_in_java/tree/master/0067-add-binary) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/isakadri/Dsa_in_java/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## String Matching
 |  |
 | ------- |
@@ -107,4 +110,9 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/isakadri/Dsa_in_java/tree/master/0070-climbing-stairs) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/isakadri/Dsa_in_java/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
+## Combinatorics
+|  |
+| ------- |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/isakadri/Dsa_in_java/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 <!---LeetCode Topics End-->
