@@ -15,6 +15,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/isakadri/Dsa_in_java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/isakadri/Dsa_in_java/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/isakadri/Dsa_in_java/tree/master/0067-add-binary) |
+| [1143-longest-common-subsequence](https://github.com/isakadri/Dsa_in_java/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0070-climbing-stairs](https://github.com/isakadri/Dsa_in_java/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/isakadri/Dsa_in_java/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/isakadri/Dsa_in_java/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/isakadri/Dsa_in_java/tree/master/1143-longest-common-subsequence) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/isakadri/Dsa_in_java/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Manacher
 |  |
@@ -115,4 +117,8 @@
 |  |
 | ------- |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/isakadri/Dsa_in_java/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/isakadri/Dsa_in_java/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
